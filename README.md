@@ -56,7 +56,7 @@ npm install
 Copy .env.example to .env and update:
 
 # Frontend variables (required by Vite)
-VITE_API_URL=http://localhost:3001
+VITE_API_URL=http://localhost:5173/
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your_public_anon_key
 
@@ -250,3 +250,4 @@ Include logs and environment details
 ✨ Author
 
 Developed as a full-stack learning project using modern React and Supabase architecture.
+
